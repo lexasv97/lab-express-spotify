@@ -1,0 +1,13 @@
+#background {
+    width: 98vw;
+    height: 100vh;
+    object-fit: fill;
+    z-index: 0;
+}
+
+  #button {
+    background-color: red;
+    z-index: 5;
+  }
+
+  
